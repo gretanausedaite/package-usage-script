@@ -11,7 +11,7 @@ This script generates a `csv` file with a list of apps using your packages and w
 npm install
 ```
 
-- Update `packages` array with a list of package names you want to find usage for. Should be in a format of `[organization]/[package-name]`.
+- Update `packages` array in script file with a list of package names you want to find usage for. Should be in a format of `[organization]/[package-name]`.
 - Get ADO PAT token with read access to code.
 - Run:
 ```
